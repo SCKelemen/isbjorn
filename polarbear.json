@@ -1,9 +1,20 @@
-"polarbear" : [
-  { "icelandic" : "ísbjörn" },
-  { "norweigen" : "isbjørn" },
-  { "swedish" : "isbjörn" },
-  { "finnish" : "jääkarhu" },
-  { "danish" : "isbjørn" },
-  { "faroese" : "hvítabjørn" }
-  ]
-  
+{
+	"polarbear": [{
+			"icelandic": "ísbjörn"
+		},
+		{
+			"norweigen": "isbjørn"
+		},
+		{
+			"swedish": "isbjörn"
+		},
+		{
+			"finnish": "jääkarhu"
+		},
+		{
+			"danish": "isbjørn"
+		},
+		{
+			"faroese": "hvítabjørn"
+		}]
+}
